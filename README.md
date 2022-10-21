@@ -16,6 +16,8 @@ pip install nbdev_cards
 
 Fill me in please! Don’t forget code examples:
 
+blabla
+
 ``` python
 1+1
 ```
