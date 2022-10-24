@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "card – A basic playing card",
+    "section": "",
+    "text": "source\n\nCard\n\n Card (suit=0, rank=2)\n\nRepresents a standard playing card.\n\nCard(suit=1, rank=4)\n\n4♦️"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_cards",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_cards",
+    "section": "Install",
+    "text": "Install\npip install nbdev_cards"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_cards",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
